@@ -1,0 +1,2 @@
+# Solutions For CLRS 3rd Edition
+This repository provides the solutions for [Introduction to Algorithms, 3rd Edition](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) written by  Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford Stein
