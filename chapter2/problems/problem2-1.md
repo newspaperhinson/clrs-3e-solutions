@@ -29,4 +29,4 @@ $$
 Since the $n\log_2{k}$ term is less dominant than the term $nk$, one can consider the effect of $nk$ on the running time only. Treating $k$ as a function of $n$ while having the running time of $\Theta{(n\log_2{n})}$. The largest value of $k$ which satisfies $k(n) \in \Theta{(\log_2{n})}$.
 
 ### d.
-Choose $k$ where the time for executing insertion sort on the array with length $k$ is faster than executing merge sort on the same array.
+There exists an number $c$ where the running time of insertion sort for array with length $c$ is faster than that of merge sort. Choose $k$ where $k$ is the largest integer satisfy $k \leq c$.
